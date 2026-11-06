@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "section": "bx1-5-3",
+  "edition": "teacher",
+  "annotations": [
+    {
+      "id": "a3d3e56a-07e6-404d-9c7d-5e6d9aa905e1",
+      "blockId": "bx1-5-3-b3",
+      "quote": "在研究某些数学问题时，所研究的变量往往依赖于另一个变量，此时就需要建立这两个变量之间的函数关系。",
+      "note": "",
+      "color": "yellow",
+      "createdAt": "2026-11-06T03:23:29.415Z"
+    },
+    {
+      "id": "52ff99a4-4581-4c86-ba8b-278cb1e88e69",
+      "blockId": "annotation-teacher-block-0",
+      "quote": "“函数的应用”包含两部分内容: 一是函数这一工具在生产、生活中的应用; 二是函数作为一个数学概念, 在其他数学研究中的应用. 可以看到, 无论是哪种情况, 引入适当的函数都可以使我们对所考察问题的认识更加深入.",
+      "note": "",
+      "color": "yellow",
+      "createdAt": "2026-11-06T03:23:55.249Z"
+    }
+  ]
+}
